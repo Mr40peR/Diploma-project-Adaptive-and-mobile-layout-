@@ -1,7 +1,7 @@
 @font-face {
   src: url("../fonts/OpenSans-Regular.woff");
   font-family: open-sans;
-  font-weight: 400px;
+  font-weight: 400;
   font-style: normal;
   color: #0f0d0e;
 }
@@ -9,7 +9,7 @@
 @font-face {
   src: url("../fonts/OpenSans-Regular.woff2");
   font-family: open-sans;
-  font-weight: 400px;
+  font-weight: 400;
   font-style: normal;
   color: #0f0d0e;
 }
@@ -1028,7 +1028,7 @@ h3 > .trends {
   }
 
   .trends-card {
-    height: 250px;;
+    height: 250px;
   }
 
   .trends-list {
